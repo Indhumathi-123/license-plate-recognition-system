@@ -1,0 +1,5 @@
+Flask
+opencv-python
+pytesseract==0.3.10
+--pre Pillow
+--pre numpy
